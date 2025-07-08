@@ -1,5 +1,8 @@
 # CLAT NLTI Enhanced Site
 
+## 🌐 Live Demo
+[https://nlti.netlify.app/](https://nlti.netlify.app/)
+
 A modern, responsive web application for CLAT NLTI, providing premium law entrance coaching, course information, testimonials, achiever highlights, and more. Built with React, Tailwind CSS, and Vite for fast performance and a beautiful user experience.
 
 ## 🚀 Features
@@ -22,7 +25,7 @@ A modern, responsive web application for CLAT NLTI, providing premium law entran
 
 ## 📁 Folder Structure
 ```
-clat-ntli/
+clat-nlti/
   ├── public/                # Static assets (logo, images)
   ├── src/
   │   ├── components/        # Reusable UI components (Navbar, Footer, etc.)
@@ -39,7 +42,7 @@ clat-ntli/
 1. **Clone the repo:**
    ```bash
    git clone <your-repo-url>
-   cd clat-nlti/
+   cd clat-nlti
    ```
 2. **Install dependencies:**
    ```bash
