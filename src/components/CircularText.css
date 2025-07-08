@@ -1,0 +1,21 @@
+.circular-text {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #facc15; /* Tailwind yellow-400 */
+  user-select: none;
+  pointer-events: auto;
+}
+.circular-text span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform-origin: 0 0;
+  white-space: pre;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.18);
+} 
