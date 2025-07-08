@@ -22,7 +22,7 @@ A modern, responsive web application for CLAT NLTI, providing premium law entran
 
 ## 📁 Folder Structure
 ```
-clat-enhanced-site/
+clat-ntli/
   ├── public/                # Static assets (logo, images)
   ├── src/
   │   ├── components/        # Reusable UI components (Navbar, Footer, etc.)
@@ -39,7 +39,7 @@ clat-enhanced-site/
 1. **Clone the repo:**
    ```bash
    git clone <your-repo-url>
-   cd clat-enhanced-site
+   cd clat-nlti/
    ```
 2. **Install dependencies:**
    ```bash

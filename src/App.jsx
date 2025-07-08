@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="w-full min-h-screen flex flex-col">
       <Navbar />
-      <div className="flex-1 md:ml-64 transition-all">
+      <div className="flex-1 transition-all md:ml-64">
         <AppRoutes />
       </div>
     </div>
